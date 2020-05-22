@@ -6,8 +6,8 @@ server:
     include-stacktrace: NEVER
 ---
 spring:
-  application:
-    name: client-mysql-db
+  application: customer-registration-service
+    name: 
   jpa:
     hibernate:
       ddl-auto: update
