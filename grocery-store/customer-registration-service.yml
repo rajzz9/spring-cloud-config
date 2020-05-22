@@ -6,8 +6,8 @@ server:
     include-stacktrace: NEVER
 ---
 spring:
-  application: customer-registration-service
-  name: 
+  application: 
+    name: customer-registration-service
   jpa:
     hibernate:
       ddl-auto: update
